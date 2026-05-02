@@ -1,4 +1,4 @@
-# Lab 4 Analyzing Online Reviews Using Spark
+# Analyzing Online Reviews Using Spark's RDD API (Lab 4)
 
 You must read through the detailed README in the [sample_spark_job](https://github.com/ugoetudo/bda-dataproc-guide/tree/main/spark_scripts/sample_spark_job) repository before attempting anything here.
 
